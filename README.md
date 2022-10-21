@@ -190,7 +190,7 @@ year = {2022},
 ```
 
 ## Credits
-* Shaden Shaar, Qatar Computing Research Institute, HBKU, Qatar
+* Shaden Shaar, Cornell University, United States
 * Nikola Georgiev, Sofia University, Bulgaria
 * Firoj Alam, Qatar Computing Research Institute, HBKU, Qatar
 * Giovanni Da San Martino, University of Padova, Italy
